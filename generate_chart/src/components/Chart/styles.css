@@ -1,0 +1,20 @@
+.footer {
+    height: 30px;
+    width: 100%;
+    background-color: steelblue;
+    align-content: center;
+    justify-content: left;
+    display: flex;
+    padding: 10px 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#chartSpace {
+    height: 275px;
+    resize: vertical;
+    font-family: 'Source Code Pro', monospace;
+}
+
+#buttonChart {
+    font-family: 'Source Sans Pro', sans-serif;
+}
